@@ -1,0 +1,67 @@
+
+body {
+  background-color: black ;
+  margin:0px ;
+}
+ul {
+  font-size: 1.20em ;
+  margin: 10px ;
+  word-spacing: 20px ;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+p {
+  color :white ;
+}
+
+.footer {
+  width: 220px ;
+  height: 25px ;
+  background-color:red ;
+  padding: 0 0 0 0;
+  border: 1px ;
+}
+.vehicule {
+  padding-top: 5em;
+margin-left: 28%;
+border-radius:20px
+}
+.vehi {
+  font-size: 40px ;
+  color: white ;
+  top: 10px ;
+  margin-top: -3em;
+  margin-left: 45%;
+  font-weight: bolder;
+}
+
+.imgf {
+  padding-bottom: -3em ;
+  display: block;
+  margin: 0 38% ;
+  border-radius: 90px ;
+}
+.divheader {
+  margin-top: 0px ;
+  background-color: red;
+  margin :auto;
+}
+.nav
+{
+  text-align : center ;
+  margin-left :50%;
+   margin:0;
+   padding:0;
+}
+
+.nav ul
+{
+   display:inline;
+   padding:0;
+   margin:0;
+}
+a:hover { color: blue ;
+font-size: 20px;
+}
